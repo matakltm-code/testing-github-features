@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/matakltm-code/testing-github-features/compare/v0.3.0...v0.5.0) (2022-04-04)
+
+
+### Features
+
+* added changelog config file ([322c997](https://github.com/matakltm-code/testing-github-features/commit/322c9975722529c4e8709e85aa576521ca25ebea))
+
+
+
 # [0.3.0](https://github.com/matakltm-code/testing-github-features/compare/v0.1.0...v0.3.0) (2022-04-04)
 
 
