@@ -1,1 +1,3 @@
 Normal commit add
+
+text updated b/c there is a bug fix
